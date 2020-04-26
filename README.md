@@ -6,8 +6,6 @@ This is a summary of basic functions and concepts from pandas tutorial for new u
 I first list the functions together to give a overview :
 ## List of functions:
 
-### Markdown
-
 list
 zip
 *list(zip(names, numbers))*
@@ -85,8 +83,6 @@ df.T
 	a	b
 one	1	1
 two	2	2
-
-z
 
 
 # Header 1
